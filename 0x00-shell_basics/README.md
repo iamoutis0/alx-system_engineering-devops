@@ -1,1 +1,1 @@
-root folder readme
+readme file for shell basics
